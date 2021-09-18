@@ -8,7 +8,6 @@
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=achillesoo7&count_private=true&theme=radical" alt="Sumit's github stats" />
 </a>
 
-<img alt="Mihir Gupta" align="right" src="https://raw.githubusercontent.com/mihir0699/mihir0699/master/Untitled%20design.png" width="400px"/>
 <br/><br/><br/><br/>
 <a href="https://twitter.com/geeksumit" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
