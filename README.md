@@ -6,7 +6,10 @@
 
 <a href="https://github.com/achillesoo7">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=achillesoo7&count_private=true&theme=radical" alt="Sumit's github stats" />
-</a>  <br/><br/><br/><br/><br/><br/><br/><br/><br/>
+</a> 
+<img alt="Mihir Gupta" align="right" src="https://raw.githubusercontent.com/mihir0699/mihir0699/master/Untitled%20design.png" width="400px"/>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ----------------------------------------
 
