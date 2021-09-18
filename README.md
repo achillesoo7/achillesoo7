@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate in open source
 - 📫 sjsumit007@gmail.com
 
-https://github-readme-stats.vercel.app/api?username=achillesoo7
+<a href="https://github.com/achillesoo7">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=achillesoo7&count_private=true&theme=radical" alt="Sumit's github stats" />
+</a>
 
 <!---
 achillesoo7/achillesoo7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
