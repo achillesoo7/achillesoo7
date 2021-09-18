@@ -1,3 +1,13 @@
+- 👋 Hi, I’m @achillesoo7
+- 👀 I’m interested in javascript and java
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate in open source
+- 📫 sjsumit007@gmail.com
+
+<a href="https://github.com/achillesoo7">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=achillesoo7&count_private=true&theme=radical" alt="Sumit's github stats" />
+</a>
+
 <a href="https://twitter.com/geeksumit" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a> 
@@ -8,17 +18,6 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
 </a>
   <a href="https://www.youtube.com/channel/UCMBpwhhqsRGGUfxqF_tchrA"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  
-
-- 👋 Hi, I’m @achillesoo7
-- 👀 I’m interested in javascript and java
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate in open source
-- 📫 sjsumit007@gmail.com
-
-<a href="https://github.com/achillesoo7">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=achillesoo7&count_private=true&theme=radical" alt="Sumit's github stats" />
-</a>
 
 <!---
 achillesoo7/achillesoo7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
