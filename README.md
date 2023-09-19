@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @achillesoo7
-- 👀 I’m interested in javascript and java
-- 🌱 I’m currently learning java
+- 👀 I’m interested in javascript and dart
+- 🌱 I’m currently learning dart
 - 💞️ I’m looking to collaborate in open source
 - 📫 sjsumit007@gmail.com
 
