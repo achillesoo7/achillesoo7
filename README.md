@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @achillesoo7
-- 👀 I’m interested in javascript and dart
-- 🌱 I’m currently learning dart
+- 👀 I’m interested in javascript and python
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate in open source
 
 <!-- <a href="https://github.com/achillesoo7">
